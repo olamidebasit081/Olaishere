@@ -6,15 +6,15 @@ EDIT THIS FILE WITH YOUR REAL EMAIL ACCOUNTS AND PASSWORDS
 
 # ========== TOOL LOGIN CREDENTIALS ==========
 # Change these to whatever you want
-TOOL_USERNAME = "ziskyhimself"
-TOOL_PASSWORD = "admins"
+TOOL_USERNAME = "olaisback"
+TOOL_PASSWORD = "Devil081."
 
 # ========== YOUR EMAIL ACCOUNTS ==========
 # REPLACE these with YOUR REAL email and app passwords
 EMAIL_ACCOUNTS = [
     {
-        'email': 'managerhimself032@gmail.com',
-        'password': 'inagtgypnpyweleu',
+        'email': 'olamidebasit0815@gmail.com',
+        'password': 'varr zlcj ryue fijm',
         'smtp_server': 'smtp.gmail.com',
         'smtp_port': 587
     },
