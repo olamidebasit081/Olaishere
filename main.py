@@ -14,31 +14,31 @@ TOOL_PASSWORD = "Devil081."
 EMAIL_ACCOUNTS = [
     {
         'email': 'olamidebasit0815@gmail.com',
-        'password': 'varr zlcj ryue fijm',
+        'password': 'hgnr ihnv gazp ygek',
         'smtp_server': 'smtp.gmail.com',
         'smtp_port': 587
     },
     {
-        'email': 'arsheeqarsheeqq@gmail.com',
-        'password': 'pkkqfactxwkpvzgc',
+        'email': 'olamidebasit0815@gmail.com',
+        'password': 'hgnr ihnv gazp ygek',
         'smtp_server': 'smtp.gmail.com',
         'smtp_port': 587
     },
     {
-        'email': 'kingbadboi069@gmail.com',
-        'password': 'qgifnqlsthrbzgbb',
+        'email': 'olamidebasit0815@gmail.com',
+        'password': 'hgnr ihnv gazp ygek',
         'smtp_server': 'smtp.gmail.com',
         'smtp_port': 587
     },
     {
-        'email': 'badboistill@gmail.com',
-        'password': 'svwcrostswgapevv',
+        'email': 'olamidebasit0815@gmail.com',
+        'password': 'hgnr ihnv gazp ygek',
         'smtp_server': 'smtp.gmail.com',
         'smtp_port': 587
     },
     {
-        'email': 'aynation700@gmail.com',
-        'password': 'ctteysjmdssgadnp',
+        'email': 'olamidebasit0815@gmail.com',
+        'password': 'hgnr ihnv gazp ygek',
         'smtp_server': 'smtp.gmail.com',
         'smtp_port': 587
     }
